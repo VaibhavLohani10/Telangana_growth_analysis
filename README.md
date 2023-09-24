@@ -1,4 +1,4 @@
-# Python_telanganagrowth_analysis
+# Telanganagrowth_analysis
 
 Dive into the dynamics of Telangana's economic development with this data analysis project. Leveraging Python's data analysis toolkit, including Pandas, NumPy, Matplotlib, and Seaborn, we've dissected three pivotal datasets: Stamps Registration, Transportation, and TS iPASS.
 
